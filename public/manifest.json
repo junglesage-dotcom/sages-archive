@@ -1,0 +1,21 @@
+{
+  "name": "Sage's Archive",
+  "short_name": "Sage's Archive",
+  "description": "A digital literary archive and contemporary creative publishing platform.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf6f0",
+  "theme_color": "#7a2b2b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "categories": ["books", "education", "social"],
+  "lang": "en",
+  "dir": "ltr"
+}
